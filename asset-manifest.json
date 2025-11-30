@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/risunki/static/css/main.41ac5593.css",
+    "main.js": "/risunki/static/js/main.720eeabd.js",
+    "static/js/453.d37bcb50.chunk.js": "/risunki/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/risunki/index.html",
+    "main.41ac5593.css.map": "/risunki/static/css/main.41ac5593.css.map",
+    "main.720eeabd.js.map": "/risunki/static/js/main.720eeabd.js.map",
+    "453.d37bcb50.chunk.js.map": "/risunki/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ac5593.css",
+    "static/js/main.720eeabd.js"
+  ]
+}
